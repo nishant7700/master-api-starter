@@ -1,0 +1,5 @@
+NODE_ENV = development
+PORT = 5050
+MONGO_URI = mongodb://localhost/lms
+JWT_SECRET = 'lms-website-luhaif-digitech'
+LIMIT = 100
